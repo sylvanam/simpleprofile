@@ -1,0 +1,16 @@
+body {
+	background-color: #a485f2;
+} 
+.title {
+	color:white;
+	text-align:center;
+	margin-top: 50px;
+	
+}
+.main {
+	width:100%;
+}
+.center {
+	display:table;
+	margin: 0 auto;
+}
